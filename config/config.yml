@@ -25,9 +25,8 @@ twig_config:
 #
 date_format: %D %T                  # Pico's default date format
                                     #     See http://php.net/manual/en/function.strftime.php for more info
-pages_order_by_meta: author         # Sort pages by meta value "author" (set "pages_order_by" to "meta")
-pages_order_by: date               # Change how Pico sorts pages ("alpha" for alphabetical order, "date", or "meta")
-pages_order: desc                    # Sort pages in ascending ("asc") or descending ("desc") order
+pages_order_by: date                # Change how Pico sorts pages ("alpha" for alphabetical order, "date", or "meta")
+pages_order: desc                   # Sort pages in ascending ("asc") or descending ("desc") order
 content_dir: content/               # The path to Pico's content directory
 content_ext: .md                    # The file extension of your Markdown files
 content_config:
@@ -43,10 +42,12 @@ content_config:
 # Plugins
 #
 DummyPlugin.enabled: false          # Force the plugin "DummyPlugin" to be disabled
+pagination_limit: 4
 
 ##
 # Custom
 #
 author: Pack Leader
 facebook: https://www.facebook.com/groups/Pack393Glendale/
-twitter: 
+twitter: na
+
