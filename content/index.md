@@ -1,6 +1,6 @@
 ---
-Tagline: Do Your BestW
-Description: We need an SEO/SEM description
+Tagline: Have Fun & Do Your Best
+Description: A page description
 Social:
   https://www.facebook.com/groups/Pack393Glendale/: facebook
 ---
