@@ -1,16 +1,16 @@
 ---
 Tagline: Have Fun & Do Your Best
 Description: A page description
-Social:
-  https://www.facebook.com/groups/Pack393Glendale/: facebook
+Date: 2019-02-19
+Template: index
 ---
 
-## Welcome to the Pack
+## Welcome to the Pack ##
 
-## Join Us
+### Join Us ###
 
-## Calendar
+### Calendar ###
 
-## Resources
+## Resources ##
 
-## Contacts
+## Contacts ##
